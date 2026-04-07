@@ -1,7 +1,12 @@
 aid: whiting-petroleum
-url: https://raw.githubusercontent.com/api-evangelist/whiting-petroleum/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/whiting-petroleum/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.whiting-petroleum.com
+description: >-
+  Whiting Petroleum was an independent oil and gas company engaged in the exploration,
+  development, and production of crude oil, natural gas, and natural gas liquids primarily
+  in the Rocky Mountains region before merging with Oasis Petroleum.
