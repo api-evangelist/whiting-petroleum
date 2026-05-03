@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "tickerSymbol": "schema:tickerSymbol",
+    "foundingDate": "schema:foundingDate",
+    "dissolutionDate": "schema:dissolutionDate",
+    "location": "schema:location",
+    "Organization": "schema:Organization",
+    "Corporation": "schema:Corporation",
+    "energy": "https://dbpedia.org/ontology/Energy/",
+    "basin": {
+      "@id": "energy:basin",
+      "@type": "xsd:string"
+    },
+    "formation": {
+      "@id": "energy:formation",
+      "@type": "xsd:string"
+    },
+    "commodity": {
+      "@id": "energy:commodity",
+      "@type": "xsd:string"
+    },
+    "productionVolume": {
+      "@id": "energy:productionVolume",
+      "@type": "xsd:decimal"
+    },
+    "reserveType": {
+      "@id": "energy:reserveType",
+      "@type": "xsd:string"
+    },
+    "wellCount": {
+      "@id": "energy:wellCount",
+      "@type": "xsd:integer"
+    },
+    "netAcres": {
+      "@id": "energy:netAcres",
+      "@type": "xsd:decimal"
+    }
+  }
+}

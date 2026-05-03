@@ -1,0 +1,141 @@
+vocabulary:
+  name: Whiting Petroleum Vocabulary
+  description: >-
+    Vocabulary and taxonomy for Whiting Petroleum, an independent oil and gas
+    company that merged with Oasis Petroleum in 2022 to form Chord Energy Corporation
+    (NASDAQ: CHRD).
+  version: 1.0.0
+  created: '2026-05-03'
+  modified: '2026-05-03'
+  tags:
+    - Oil And Gas
+    - Energy
+    - Upstream
+    - Williston Basin
+    - Bakken Shale
+
+terms:
+  - term: Upstream
+    definition: >-
+      The exploration, development, and production segment of the oil and gas
+      industry. Whiting operated exclusively in the upstream segment.
+    tags:
+      - Industry Segment
+
+  - term: Williston Basin
+    definition: >-
+      A large sedimentary basin spanning parts of North Dakota, South Dakota, and
+      Montana. Whiting's primary operating area, containing the Bakken and Three Forks
+      formations.
+    tags:
+      - Geography
+      - Basin
+
+  - term: Bakken Shale
+    definition: >-
+      A rock unit in the Williston Basin. The Bakken Formation is a tight oil play
+      that Whiting Petroleum developed extensively using horizontal drilling and
+      hydraulic fracturing.
+    tags:
+      - Formation
+      - Shale
+
+  - term: Three Forks
+    definition: >-
+      A carbonate formation beneath the Bakken in the Williston Basin. Whiting also
+      developed Three Forks wells as a secondary target below Bakken wells.
+    tags:
+      - Formation
+
+  - term: Horizontal Drilling
+    definition: >-
+      Drilling technique where a wellbore is turned from vertical to horizontal
+      to maximize contact with a target reservoir formation. Whiting used horizontal
+      drilling extensively in the Bakken.
+    tags:
+      - Drilling
+      - Technology
+
+  - term: Hydraulic Fracturing
+    definition: >-
+      A well stimulation technique that creates fractures in rock formations to
+      increase the flow of oil and gas. Also known as fracking. Used by Whiting
+      in its Bakken operations.
+    tags:
+      - Completion
+      - Technology
+
+  - term: BOE
+    definition: >-
+      Barrel of Oil Equivalent. A unit of energy based on the approximate energy
+      released by burning one barrel of crude oil. Used to aggregate oil and gas
+      production volumes.
+    tags:
+      - Unit of Measure
+
+  - term: BOEPD
+    definition: >-
+      Barrels of Oil Equivalent Per Day. The standard production rate measurement
+      used in the upstream oil and gas industry.
+    tags:
+      - Unit of Measure
+
+  - term: Net Acres
+    definition: >-
+      The adjusted acreage based on the working interest ownership percentage in
+      leased land. Whiting held approximately 490,000 net acres at peak operations.
+    tags:
+      - Land
+      - Assets
+
+  - term: Working Interest
+    definition: >-
+      The ownership interest in an oil and gas lease that gives the owner the right
+      to explore, develop, and produce from the property, bearing proportional costs.
+    tags:
+      - Ownership
+      - Finance
+
+  - term: Chord Energy
+    definition: >-
+      The company formed by the merger of Whiting Petroleum and Oasis Petroleum in
+      July 2022. Chord Energy trades on NASDAQ under the ticker symbol CHRD and
+      maintains a premier Williston Basin position.
+    tags:
+      - Company
+      - Successor
+
+  - term: EIA
+    definition: >-
+      U.S. Energy Information Administration. The federal government agency that
+      collects, analyzes, and disseminates energy information. Primary source for
+      public oil and gas production data.
+    tags:
+      - Government
+      - Data Source
+
+  - term: Proved Reserves
+    definition: >-
+      Quantities of oil and gas that geological and engineering data demonstrate
+      with reasonable certainty are recoverable under existing economic and operating
+      conditions.
+    tags:
+      - Reserves
+      - Finance
+
+data-sources:
+  - name: U.S. Energy Information Administration
+    url: https://www.eia.gov
+    description: Public oil and gas production and reserves data
+
+  - name: North Dakota Industrial Commission
+    url: https://www.dmr.nd.gov
+    description: North Dakota oil and gas well data and production statistics
+
+  - name: SEC EDGAR
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001255474&type=10-K
+    description: Whiting Petroleum SEC filings including annual and quarterly reports
+
+  - name: Chord Energy Investor Relations
+    url: https://ir.chordenergy.com
+    description: Successor company investor relations and financial data
