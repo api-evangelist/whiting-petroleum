@@ -34,7 +34,7 @@ common:
     url: https://ir.chordenergy.com
   - type: SECFilings
     url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001255474&type=10-K
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://whiting.com/llms.txt
 notes: >-
   Whiting Petroleum merged with Oasis Petroleum in July 2022 to form Chord Energy
