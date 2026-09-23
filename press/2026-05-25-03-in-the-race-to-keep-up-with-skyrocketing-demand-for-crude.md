@@ -1,7 +1,9 @@
 ---
 title: In the race to keep up with skyrocketing demand for crude ...
 url: https://www.facebook.com/texastribune/posts/in-the-race-to-keep-up-with-skyrocketing-demand-for-crude-oil-and-gas-companies-/1467672732071913/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Whiting Petroleum" press release artificial intelligence'
 position: 3
 source: serpapi-google
