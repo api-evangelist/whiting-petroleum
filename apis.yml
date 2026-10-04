@@ -75,3 +75,9 @@ notes: >-
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-status: acquired
+x-acquired-by: "Chord Energy"
+x-relationship: merger
+x-acquired-date: '2022-07'
+x-status-source: "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/070522-whiting-oasis-complete-merger-renamed-chord-energy"
+x-status-evidence: "Whiting and Oasis Petroleum completed their merger on 2022-07-01 as Chord Energy (NASDAQ: CHRD), not in the catalog; whiting.com no longer resolves (roadmap#812)"
